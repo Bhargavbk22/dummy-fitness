@@ -10,7 +10,7 @@ export default function Home() {
       <HeroSection />
       <FeatureSection />
       <section className="max-w-6xl mx-auto px-4 py-12">
-        <h3 className="text-2xl font-semibold mb-4">Weekly progress</h3>
+        <h3 className="text-2xl font-semibold mb-4">Weekly progress!!!</h3>
         <ProgressChart />
       </section>
       <TestimonialSection />
